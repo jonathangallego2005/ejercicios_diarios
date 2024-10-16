@@ -1,6 +1,7 @@
 EJERCICIO 18
 
 ENUNCIADO:
+
 ![enunciado_18](https://github.com/user-attachments/assets/835343be-151b-43e4-8d64-d255ec612187)
 
 EJERCICIO RESUELTO EN JAVA:
