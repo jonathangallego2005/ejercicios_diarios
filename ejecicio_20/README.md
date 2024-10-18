@@ -6,11 +6,11 @@ ENUNCIADO:
 
 EJERCICIO RESUELTO EN PYTHON:
 
-![ejercicio20_python](https://github.com/user-attachments/assets/100dd5b5-52fe-4231-a465-51ff9721a54c)
+![ejercicio20_java](https://github.com/user-attachments/assets/aa00c19b-1ae7-476e-8308-69b1bbeb0388)
 
 EJERCICIO RESUELTO EN JAVA:
 
-![ejericio19_java](https://github.com/user-attachments/assets/d0ad7283-f5d4-4358-918f-2a640e769345)
+![ejercicio20_python](https://github.com/user-attachments/assets/91bb42e6-f7af-4920-a475-39821133301d)
 
 
 
