@@ -11,5 +11,6 @@ Ejercicio resuelto en python:
 
 Ejercicio resuelto en java:
 
-![Uploading ejercicio28_java.png…]()
+![ejercicio28_java](https://github.com/user-attachments/assets/a8afa7ba-614e-4ad7-984c-7d11b98835d8)
+
 
